@@ -1,0 +1,9 @@
+.book-content{float:left;margin-right:20px;margin-bottom:15px;}
+.books-text{margin-bottom:12px;}
+.booktitle{font-size:1.3em;line-height:1.25em;margin-bottom:0.25em;}
+.subtitle{font-size:1.1em;line-height:1.2em;}
+.store-links{padding-bottom:2px;}
+.booklinks{padding:5px 5px 0 5px;clear:both;border-top:3px double #DDD;border-bottom:3px double #DDD;}
+.bookseller-links {display:block;}
+.bookseller-links img{padding:5px;}
+.buy-book-text{padding-left:5px;}
